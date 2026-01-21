@@ -1,0 +1,20 @@
+[
+  {
+    "id": 201,
+    "nombre": "Ana Guevara",
+    "telefono": "6060-1234",
+    "email": "ana@example.com",
+    "area_interes": "Logística",
+    "disponibilidad": "Fines de semana",
+    "experiencia_previa": "Sí, en refugios."
+  },
+  {
+    "id": 202,
+    "nombre": "Pedro Rojas",
+    "telefono": "8585-4321",
+    "email": "pedro@example.com",
+    "area_interes": "Transporte",
+    "disponibilidad": "Lunes a Viernes (Tardes)",
+    "experiencia_previa": "Tengo camioneta propia."
+  }
+]

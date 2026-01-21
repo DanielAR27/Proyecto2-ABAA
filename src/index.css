@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colores de la marca */
+  --color-aba-red: #be1b21;
+  --color-aba-red-hover: #9e161b; /* Un poco más oscuro para hover */
+  
+  /* Un gris azulado oscuro para el Navbar */
+  --color-aba-dark: #1e293b; 
+}
+
+@layer components {
+  .main-container {
+    @apply min-h-screen bg-gray-50 text-gray-800 flex flex-col;
+  }
+  
+  .content-wrapper {
+    @apply w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex-grow;
+  }
+
+  /* Botones Primarios (Usando el Rojo de la marca) */
+  .btn-primary {
+    @apply text-white bg-aba-red hover:bg-aba-red-hover focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 transition-colors cursor-pointer shadow-sm;
+  }
+
+  /* Inputs estilizados */
+  .input-primary {
+    @apply w-full rounded-lg border-gray-300 border p-2.5 text-sm focus:ring-aba-red focus:border-aba-red outline-none transition-all;
+  }
+}

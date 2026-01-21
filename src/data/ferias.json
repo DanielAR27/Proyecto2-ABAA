@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "titulo": "Gran Campaña de Castración - Ruinas de Cartago",
+    "fecha": "2026-02-15",
+    "hora": "08:00 AM",
+    "ubicacion": "Plaza Mayor, frente a las Ruinas",
+    "mapa_url": "https://www.google.com/maps/search/?api=1&query=Ruinas+de+Cartago",
+    "cupos_totales": 50,
+    "cupos_disponibles": 12,
+    "tipo": "Castración",
+    "requisitos": [
+      "Ayuno de 8 horas (agua y comida)",
+      "Traer cobija para el post-operatorio",
+      "Cédula de identidad del responsable",
+      "Gatos en transportadora, Perros con correa"
+    ],
+    "imagen": "https://guiascostarica.info/wp-content/gallery/ruinascartago/ruinas10.jpg",
+    "estado": "abierta"
+  },
+  {
+    "id": 2,
+    "titulo": "Feria de Salud y Vacunación - TEC",
+    "fecha": "2026-02-22",
+    "hora": "09:00 AM",
+    "ubicacion": "Comedor Institucional, Campus Central TEC",
+    "mapa_url": "https://www.google.com/maps/search/?api=1&query=Instituto+Tecnológico+de+Costa+Rica",
+    "cupos_totales": 100,
+    "cupos_disponibles": 85,
+    "tipo": "Vacunación",
+    "requisitos": [
+      "Carnet de vacunas anterior (si tiene)",
+      "Perros con correa y bozal si son nerviosos",
+      "Cédula de identidad"
+    ],
+    "imagen": "https://www.tec.ac.cr/hoyeneltec/sites/default/files/styles/colorbox/public/media/img/main/tec_03.jpg",
+    "estado": "abierta"
+  },
+  {
+    "id": 3,
+    "titulo": "Campaña Móvil - Paraíso",
+    "fecha": "2026-01-10",
+    "hora": "07:00 AM",
+    "ubicacion": "Parque Central de Paraíso",
+    "mapa_url": "https://www.google.com/maps/search/?api=1&query=Parque+de+Paraíso+Cartago",
+    "cupos_totales": 40,
+    "cupos_disponibles": 0,
+    "tipo": "Castración",
+    "requisitos": [
+      "Ayuno de 12 horas",
+      "Solo para residentes de Paraíso"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=600",
+    "estado": "cerrada"
+  }
+]

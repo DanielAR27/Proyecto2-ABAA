@@ -1,0 +1,24 @@
+[
+  {
+    "id": 101,
+    "id_feria": 1,
+    "nombre_dueno": "María Rodríguez",
+    "telefono": "8888-8888",
+    "nombre_mascota": "Firulais",
+    "especie": "Perro",
+    "peso": "15 kg",
+    "edad": "2 años",
+    "fecha_registro": "2026-01-28T10:00:00Z"
+  },
+  {
+    "id": 102,
+    "id_feria": 1,
+    "nombre_dueno": "Carlos Alvarado",
+    "telefono": "7777-7777",
+    "nombre_mascota": "Michi",
+    "especie": "Gato",
+    "peso": "4 kg",
+    "edad": "1 año",
+    "fecha_registro": "2026-01-29T14:30:00Z"
+  }
+]
